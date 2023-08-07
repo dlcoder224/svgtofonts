@@ -1,0 +1,17 @@
+{
+  "name": "svgtofonts",
+  "version": "2.0.0",
+  "description": "",
+  "main": "toFonts.js",
+  "dependencies": {
+    "svgtofont": "^3.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node toFonts.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
